@@ -16,6 +16,8 @@ I enjoy the engineering work behind getting a robot to behave reliably: integrat
 
 - [**Tiltable Quadrotor — End-Effector NMPC**](https://github.com/AlaaRadhwan/tiltable-quadrotor-nmpc) — Developed a simulated 17-state nonlinear MPC system for a tilt-rotor quadrotor, achieving 19.8 mm RMS end-effector position error in a 6-DoF tracking test.
 
+- [**ROS 1 Drone — SLAM & Autonomous Navigation**](https://github.com/AlaaRadhwan/ros1-drone-slam-navigation) — Built a simulated quadrotor navigation system with 2D LiDAR mapping, RViz goal planning, and a Python ROS-to-MAVLink mission bridge for ArduPilot SITL. Demonstrated autonomous flight in 2024; the archived code has not been revalidated.
+
 - [**Underwater Rocket — ESP32 Firmware**](https://github.com/AlaaRadhwan/underwater-rocket-esp32-firmware) — Developed embedded C++ firmware for IMU acquisition, attitude estimation, feedback control, four-fin actuation, and operator control; participated in qualitative pool testing.
 
 I also worked on communication and mission software for a dual-ROV system as part of a team that placed **second at TEKNOFEST 2026 Underwater Systems**.
