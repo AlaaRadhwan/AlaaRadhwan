@@ -28,4 +28,4 @@ ROS 2 · Nav2 · Python · C++ · Linux · Gazebo · MuJoCo · MATLAB/Simulink �
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/alaaradhwan/) · [Email](mailto:alaa.radhwanmustafa@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alaaradhwan/) · [Email](mailto:alaa.radhw@gmail.com)
